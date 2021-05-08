@@ -1,0 +1,9 @@
+body{
+	text-align: center;
+	background-color: aqua;
+}
+marquee{
+	color: royalblue;
+	text-align: center;
+	text-decoration: bold;
+}
